@@ -30,13 +30,13 @@ The dataset includes several columns of data that can be analyzed:
 * text: content of the tweet sent
 
 ## Goals
-**1.:**
+**1.**
 Finding the Twitter users that are active on twitter in the dataset. Only counting the users that have posted in the last 5 days. Additionally, saving their "user_screen_name" and "user_id_str" in a dataframe "daily_active_users"
 
-**2:**
+**2.**
 Conducting a sample A/B test on Twitter. The Experiment.txt file includes "user_id_str", which are users that are selected as potential experiment targets. Creating a dataframe "experiment_user" to document the selected users and determine if they are active users
 
-**3:**
+**3.**
 Using new revised experiment target list with the "final_experiment.csv" file. In this file, several users were removed and a new column "info" has been added that includes whether the user is a female (F) or male (M). Joing the dataframes from Task 1 & 2 and saving the result in a "final_experiment" dataframe
 
 ## RESULTS
