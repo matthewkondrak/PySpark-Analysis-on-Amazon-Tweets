@@ -1,4 +1,4 @@
-# PySpark-Analysis-on-Amazon-Tweets
+# PySpark-DataFrame-and-SQL-Analysis-on-Amazon-Tweets
 
 ## DATA DESCRIPTION
 This dataset consists of 400,000+ tweets on Twitter, where users had contacted (@AmazonHelp) to give a review on amazon's service. 
